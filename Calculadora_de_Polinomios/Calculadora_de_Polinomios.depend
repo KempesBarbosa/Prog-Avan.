@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1637337944 source:c:\users\gabri\onedrive\desktop\ufrn\6° semestre\pa\projetos\unid1\calculadora de polinomios\calculadora_de_polinomios\poly-main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+	<string>
+	<limits>
+	<stdlib.h>
+	<stdint.h>
+	"Poly.h"
+	<cstring>
+
+1637344460 c:\users\gabri\onedrive\desktop\ufrn\6° semestre\pa\projetos\unid1\calculadora de polinomios\calculadora_de_polinomios\poly.h
+	<iostream>
+	<cmath>
+	<fstream>
+	<string>
+	<limits>
+	<stdlib.h>
+	<stdint.h>
+
+1637346226 source:c:\users\gabri\onedrive\desktop\ufrn\6° semestre\pa\projetos\unid1\calculadora de polinomios\calculadora_de_polinomios\main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+	<string>
+	<limits>
+	<stdlib.h>
+	<stdint.h>
+	"Poly.h"
+	<cstring>
+
+1637337944 source:c:\users\gabri\onedrive\desktop\ufrn\6° semestre\pa\projetos\unid1\calculadora de polinomios\calculadora_de_polinomios - gabrielsoutolozanobarbosa\poly-main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+	<string>
+	<limits>
+	<stdlib.h>
+	<stdint.h>
+	"Poly.h"
+	<cstring>
+
+1637350050 c:\users\gabri\onedrive\desktop\ufrn\6° semestre\pa\projetos\unid1\calculadora de polinomios\calculadora_de_polinomios - gabrielsoutolozanobarbosa\poly.h
+	<iostream>
+	<cmath>
+	<fstream>
+	<string>
+	<limits>
+	<stdlib.h>
+	<stdint.h>
+
+1637350050 source:c:\users\gabri\onedrive\desktop\ufrn\6° semestre\pa\projetos\unid1\calculadora de polinomios\calculadora_de_polinomios - gabrielsoutolozanobarbosa\main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+	<string>
+	<limits>
+	<stdlib.h>
+	<stdint.h>
+	"Poly.h"
+	<cstring>
+

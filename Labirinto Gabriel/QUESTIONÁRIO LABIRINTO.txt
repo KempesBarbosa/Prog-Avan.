@@ -1,0 +1,114 @@
+Aluno: Gabriel Souto Lozano Barbosa
+Matricula: 20190075152
+
+QUESTIONARIO LABIRINTO U2
+
+Testes obtidos a partir do código enviado previamente.
+
+QUESTÃO 1
+
+Tempo: 0.0846ms
+Nós Aberto: 34
+Nós Fechado: 10
+Comprimento: 12.7279
+Profundidade: 9
+
+CAMINHO ENCONTRADO
+
+QUESTÃO 2
+
+Tempo: 0.0289ms
+Nós Aberto: 0
+Nós Fechado: 6 
+Comprimento: -1.0000
+Profundidade: -1
+
+NÃO EXISTE CAMINHO
+
+
+QUESTÃO 3
+
+Tempo: 0.5999ms
+Nós Aberto:0
+Nós Fechado:90
+Comprimento:-1.0000
+Profundidade: -1
+
+NÃO EXISTE CAMINHO
+
+
+QUESTÃO 4
+
+Tempo: 1.2274ms
+Nós Aberto:19
+Nós Fechado:140
+Comprimento:34.3137
+Profundidade:31
+
+CAMINHO ENCONTRADO
+
+
+QUESTÃO 5
+
+Tempo: 1.6614ms
+Nós Aberto: 65
+Nós Fechado: 149
+Comprimento: 42.3848
+Profundidade: 37
+
+CAMINHO ENCONTRADO
+
+
+QUESTÃO 6
+
+Tempo: 0.4264ms
+Nós Aberto: 15
+Nós Fechado: 74
+Comprimento: 31.8995
+Profundidade: 29
+
+CAMINHO ENCONTRADO
+
+
+QUESTÃO 7
+
+Tempo: 0.1930ms
+Nós Aberto: 6
+Nós Fechado: 39
+Comprimento: 17.6569
+Profundidade: 16
+
+CAMINHO ENCONTRADO
+
+
+QUESTÃO 8
+
+Tempo: 0.1148ms
+Nós Aberto: 5
+Nós Fechado: 33
+Comprimento: 16.2426
+Profundidade: 15
+
+CAMINHO ENCONTRADO
+
+
+QUESTÃO 9
+
+Tempo: 0.2162ms
+Nós Aberto: 19
+Nós Fechado: 44
+Comprimento: 20.0711
+Profundidade: 18
+
+CAMINHO ENCONTRADO
+
+
+QUESTÃO 10
+
+Tempo: 0.3882ms
+Nós Aberto: 0
+Nós Fechado: 78
+Comprimento: 18.0000
+Profundidade: 18
+
+CAMINHO ENCONTRADO.

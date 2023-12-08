@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1627326204 source:c:\users\gabri\onedrive\desktop\labirinto\coord.cpp
+	<cmath>
+	"coord.h"
+
+1627326236 c:\users\gabri\onedrive\desktop\labirinto\coord.h
+	<iostream>
+
+1628187033 source:c:\users\gabri\onedrive\desktop\labirinto\labirinto_main.cpp
+	<iostream>
+	<iomanip>
+	<chrono>
+	"labirinto.h"
+
+1638314014 c:\users\gabri\onedrive\desktop\labirinto\labirinto.h
+	<vector>
+	"coord.h"
+
+1638320299 source:c:\users\gabri\onedrive\desktop\labirinto\labirinto.cpp
+	<iomanip>
+	<fstream>
+	<list>
+	<algorithm>
+	<cmath>
+	"labirinto.h"
+
+1627326204 source:c:\users\gabri\onedrive\desktop\labirinto gabriel\coord.cpp
+	<cmath>
+	"coord.h"
+
+1627326236 c:\users\gabri\onedrive\desktop\labirinto gabriel\coord.h
+	<iostream>
+
+1628187033 source:c:\users\gabri\onedrive\desktop\labirinto gabriel\labirinto_main.cpp
+	<iostream>
+	<iomanip>
+	<chrono>
+	"labirinto.h"
+
+1639066240 c:\users\gabri\onedrive\desktop\labirinto gabriel\labirinto.h
+	<vector>
+	"coord.h"
+
+1639022309 source:c:\users\gabri\onedrive\desktop\labirinto gabriel\labirinto.cpp
+	<iomanip>
+	<fstream>
+	<list>
+	<algorithm>
+	<cmath>
+	"labirinto.h"
+

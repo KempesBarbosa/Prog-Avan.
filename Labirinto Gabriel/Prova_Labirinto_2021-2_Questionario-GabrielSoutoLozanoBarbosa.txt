@@ -1,0 +1,87 @@
+PROVA - PROGRAMAÇÃO AVANÇADA - 2021.2
+Projeto Labirinto
+
+
+Aluno: Gabriel Souto Lozano Barbosa
+
+
+A avaliação consiste de 10 (dez) labirintos cujos mapas encontram-se no arquivo com as questões da prova. Para cada questão devem ser informados os seguintes resultados:
+
+== DADOS A SEREM SEMPRE INFORMADOS:
+* Tempo de execução (em milissegundos)
+* Número de nós em aberto (número inteiro)
+* Número de nós em fechado (número inteiro)
+== DADOS CUJO VALOR É -1 SE NÃO FOR ENCONTRADO CAMINHO
+* Comprimento do caminho (número real, 2 a 4 casas decimais)
+* Profundidade do caminho (número inteiro)
+
+QUESTÃO 01
+Tempo: 0.0846ms
+Nós Aberto: 34
+Nós Fechado: 10
+Comprimento: 12.7279
+Profundidade: 9
+
+QUESTÃO 02
+Tempo: 0.0289ms
+Nós Aberto: 0
+Nós Fechado: 6 
+Comprimento: -1.0000
+Profundidade: -1
+
+QUESTÃO 03
+Tempo: 0.5999ms
+Nós Aberto:0
+Nós Fechado:90
+Comprimento:-1.0000
+Profundidade: -1
+
+QUESTÃO 04
+Tempo: 1.2274ms
+Nós Aberto:19
+Nós Fechado:140
+Comprimento:34.3137
+Profundidade:31
+
+QUESTÃO 05
+Tempo: 1.6614ms
+Nós Aberto: 65
+Nós Fechado: 149
+Comprimento: 42.3848
+Profundidade: 37
+
+QUESTÃO 06
+Tempo: 0.4264ms
+Nós Aberto: 15
+Nós Fechado: 74
+Comprimento: 31.8995
+Profundidade: 29
+
+QUESTÃO 07
+Tempo: 0.1930ms
+Nós Aberto: 6
+Nós Fechado: 39
+Comprimento: 17.6569
+Profundidade: 16
+
+QUESTÃO 08
+Tempo: 0.1148ms
+Nós Aberto: 5
+Nós Fechado: 33
+Comprimento: 16.2426
+Profundidade: 15
+
+QUESTÃO 09
+Tempo: 0.2162ms
+Nós Aberto: 19
+Nós Fechado: 44
+Comprimento: 20.0711
+Profundidade: 18
+ 
+
+QUESTÃO 10
+Tempo: 0.3882ms
+Nós Aberto: 0
+Nós Fechado: 78
+Comprimento: 18.0000
+Profundidade: 18 
